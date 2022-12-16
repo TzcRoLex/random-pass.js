@@ -1,5 +1,5 @@
 {
-  "name": "random-password.js",
+  "name": "random-pass.js",
   "version": "1.0.0",
   "description": "Generate Random Password",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TzcRoLex/random-password.js.git"
+    "url": "git+https://github.com/TzcRoLex/random-pass.js.git"
   },
   "keywords": [
     "password",
@@ -19,8 +19,8 @@
   "author": "TzcRoLex",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/TzcRoLex/random-password.js/issues"
+    "url": "https://github.com/TzcRoLex/random-pass.js/issues"
   },
-  "homepage": "https://github.com/TzcRoLex/random-password.js#readme",
+  "homepage": "https://github.com/TzcRoLex/random-pass.js#readme",
   "dependencies": {}
 }
